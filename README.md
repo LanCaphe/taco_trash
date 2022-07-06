@@ -48,10 +48,10 @@ The **goal** of this application is **to provide easier predictions** to the use
 
 
 # Start the application 
- 
-> - Import the necessary libraries => pip install requirements.txt
-> - Start application via terminal => streamlit run main.py 
-> - The application start in a new web page=> http://localhost:8501/
+> - Use the "docker" branch
+> - Install and launch Docker Desktop
+> - At the root of the project folder: Build the images with `docker-compose build` then `docker-compose up` to run the apps
+> - The application start at this address: http://localhost:8501/ (or "Open app in browser" from Docker Desktop application)
 
 ### Main skills:
 
